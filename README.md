@@ -1,2 +1,2 @@
-# js3DRenderer
-Mini 3D renderer by javascript
+# JavaScript3DRenderer
+Mini 3D renderer by Javascript
