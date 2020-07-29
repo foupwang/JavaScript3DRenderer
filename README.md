@@ -1,2 +1,2 @@
 # JavaScript3DRenderer
-Mini 3D renderer by Javascript
+Mini 3D Renderer by JavaScript (canvas version).
