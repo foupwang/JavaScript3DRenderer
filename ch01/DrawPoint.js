@@ -17,4 +17,3 @@ function main() {
     drawPoint(250, 150, 20, 20, ctx, {r:0,g:255,b:0});
     drawPoint(350, 150, 40, 40, ctx, {r:0,g:64,b:255});
 }
-
